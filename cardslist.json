@@ -1,0 +1,20 @@
+[
+  {
+    "id": "100_sat_words.json",
+    "name": "100 essential words for SAT",
+    "progress": 0,
+    "total": 129
+  },
+  {
+    "id": "1000_sat_words.json",
+    "name": "1000 essential words for SAT",
+    "progress": 0,
+    "total": 129
+  },
+  {
+    "id": "1000_sat_words.json",
+    "name": "1000 GRE words for SAT",
+    "progress": 0,
+    "total": 10000
+  }
+]
