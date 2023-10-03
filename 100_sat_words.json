@@ -1,0 +1,23 @@
+[
+  {
+    "index":1,
+    "text":"Hello",
+    "meaning":"안녕",
+    "learned":0,
+    "example":"Hello is good word"
+  },
+  {
+    "index":2,
+    "text":"Hello",
+    "meaning":"안녕",
+    "learned":0,
+    "example":"Hello is good word"
+  },
+  {
+    "index":3,
+    "text":"Hello",
+    "meaning":"안녕",
+    "learned":0,
+    "example":"Hello is good word"
+  },
+]
