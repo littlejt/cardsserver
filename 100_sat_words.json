@@ -1,23 +1,1836 @@
 [
   {
-    "index":1,
-    "text":"Hello",
-    "meaning":"안녕",
-    "learned":0,
-    "example":"Hello is good word"
+    "index": 0,
+    "text": "Abate",
+    "learned": 0,
+    "meaning": "make less active or intense",
+    "example": "The storm abated"
   },
   {
-    "index":2,
-    "text":"Adjust",
-    "meaning":"적응하다",
-    "learned":0,
-    "example":"Hello is good word"
+    "index": 1,
+    "text": "Abstract",
+    "learned": 0,
+    "meaning": "a concept or idea not associated with any specific instance",
+    "example": "he loved her only in the abstract--not in person"
   },
   {
-    "index":3,
-    "text":"Society",
-    "meaning":"사회",
-    "learned":0,
-    "example":"Hello is good word"
+    "index": 2,
+    "text": "Abysmal",
+    "learned": 0,
+    "meaning": "very great; limitless",
+    "example": "abysmal misery"
   },
+  {
+    "index": 3,
+    "text": "Accordingly",
+    "learned": 0,
+    "meaning": "(sentence connectors) because of the reason given",
+    "example": "consequently, he didn't do it"
+  },
+  {
+    "index": 4,
+    "text": "Acquisition",
+    "learned": 0,
+    "meaning": "the act of contracting or assuming or acquiring possession of something",
+    "example": "the acquisition of wealth"
+  },
+  {
+    "index": 5,
+    "text": "Adapt",
+    "learned": 0,
+    "meaning": "make fit for, or change to suit a new purpose",
+    "example": "Adapt our native cuisine to the available food resources of the new country"
+  },
+  {
+    "index": 6,
+    "text": "Adept",
+    "learned": 0,
+    "meaning": "someone who is dazzlingly skilled in any field",
+    "example": "adept in handicrafts"
+  },
+  {
+    "index": 7,
+    "text": "Adequate",
+    "learned": 0,
+    "meaning": "having the requisite qualities or resources to meet a task",
+    "example": "she had adequate training"
+  },
+  {
+    "index": 8,
+    "text": "Advent",
+    "learned": 0,
+    "meaning": "arrival that has been awaited (especially of something momentous)",
+    "example": "the advent of the computer"
+  },
+  {
+    "index": 9,
+    "text": "Adversarial",
+    "learned": 0,
+    "meaning": "",
+    "example": ""
+  },
+  {
+    "index": 10,
+    "text": "Advocate",
+    "learned": 0,
+    "meaning": "a person who pleads for a cause or propounds an idea",
+    "example": "The travel agent recommended strongly that we not travel on Thanksgiving Day"
+  },
+  {
+    "index": 11,
+    "text": "Aesthetic",
+    "learned": 0,
+    "meaning": "(philosophy) a philosophical theory as to what is beautiful",
+    "example": "he despised the esthetic of minimalism"
+  },
+  {
+    "index": 12,
+    "text": "Afford",
+    "learned": 0,
+    "meaning": "be able to spare or give up",
+    "example": "I can't afford to spend two hours with this person"
+  },
+  {
+    "index": 13,
+    "text": "Agitate",
+    "learned": 0,
+    "meaning": "try to stir up public opinion",
+    "example": "The speaker charged up the crowd with his inflammatory remarks"
+  },
+  {
+    "index": 14,
+    "text": "Allow",
+    "learned": 0,
+    "meaning": "make it possible through a specific action or lack of action for something to happen",
+    "example": "This permits the water to rush in"
+  },
+  {
+    "index": 15,
+    "text": "Allude",
+    "learned": 0,
+    "meaning": "make a more or less disguised reference to",
+    "example": "He alluded to the problem but did not mention it"
+  },
+  {
+    "index": 16,
+    "text": "Altercation",
+    "learned": 0,
+    "meaning": "noisy quarrel",
+    "example": ""
+  },
+  {
+    "index": 17,
+    "text": "Ambiguous",
+    "learned": 0,
+    "meaning": "open to two or more interpretations; or of uncertain nature or significance; or (often) intended to mislead",
+    "example": "an equivocal statement"
+  },
+  {
+    "index": 18,
+    "text": "Ambitious",
+    "learned": 0,
+    "meaning": "having a strong desire for success or achievement",
+    "example": "ambitious schedule"
+  },
+  {
+    "index": 19,
+    "text": "Ambivalence",
+    "learned": 0,
+    "meaning": "mixed feelings or emotions",
+    "example": ""
+  },
+  {
+    "index": 20,
+    "text": "Analogous",
+    "learned": 0,
+    "meaning": "similar or equivalent in some respects though otherwise dissimilar",
+    "example": "brains and computers are often considered analogous"
+  },
+  {
+    "index": 21,
+    "text": "Annihilate",
+    "learned": 0,
+    "meaning": "kill in large numbers",
+    "example": "the plague wiped out an entire population"
+  },
+  {
+    "index": 22,
+    "text": "Anomaly",
+    "learned": 0,
+    "meaning": "deviation from the normal or common order or form or rule",
+    "example": ""
+  },
+  {
+    "index": 23,
+    "text": "Anticipate",
+    "learned": 0,
+    "meaning": "regard something as probable or likely",
+    "example": "The meteorologists are expecting rain for tomorrow"
+  },
+  {
+    "index": 24,
+    "text": "Antipathy",
+    "learned": 0,
+    "meaning": "a feeling of intense dislike",
+    "example": "cats were his greatest antipathy"
+  },
+  {
+    "index": 25,
+    "text": "Apex",
+    "learned": 0,
+    "meaning": "the highest point (of something)",
+    "example": "at the peak of the pyramid"
+  },
+  {
+    "index": 26,
+    "text": "Apprehension",
+    "learned": 0,
+    "meaning": "fearful expectation or anticipation",
+    "example": "the student looked around the examination room with apprehension"
+  },
+  {
+    "index": 27,
+    "text": "Articulate",
+    "learned": 0,
+    "meaning": "provide with a joint",
+    "example": "the carpenter jointed two pieces of wood"
+  },
+  {
+    "index": 28,
+    "text": "Artificial",
+    "learned": 0,
+    "meaning": "contrived by art rather than nature",
+    "example": "artificial flowers"
+  },
+  {
+    "index": 29,
+    "text": "Assertion",
+    "learned": 0,
+    "meaning": "a declaration that is made emphatically (as if no supporting evidence were necessary)",
+    "example": ""
+  },
+  {
+    "index": 30,
+    "text": "Austere",
+    "learned": 0,
+    "meaning": "severely simple",
+    "example": "a stark interior"
+  },
+  {
+    "index": 31,
+    "text": "Authenticity",
+    "learned": 0,
+    "meaning": "undisputed credibility",
+    "example": ""
+  },
+  {
+    "index": 32,
+    "text": "Avenue",
+    "learned": 0,
+    "meaning": "a line of approach",
+    "example": "they explored every avenue they could think of"
+  },
+  {
+    "index": 33,
+    "text": "Avid",
+    "learned": 0,
+    "meaning": "(often followed by `for') ardently or excessively desirous",
+    "example": "avid for adventure"
+  },
+  {
+    "index": 34,
+    "text": "Basic",
+    "learned": 0,
+    "meaning": "a popular programming language that is relatively easy to learn; an acronym for beginner's all-purpose symbolic instruction code; no longer in general use",
+    "example": "a basic fact"
+  },
+  {
+    "index": 35,
+    "text": "Bear",
+    "learned": 0,
+    "meaning": "massive plantigrade carnivorous or omnivorous mammals with long shaggy coats and strong claws",
+    "example": "bear a resemblance"
+  },
+  {
+    "index": 36,
+    "text": "Benevolent",
+    "learned": 0,
+    "meaning": "intending or showing kindness",
+    "example": "a benevolent society"
+  },
+  {
+    "index": 37,
+    "text": "Bias",
+    "learned": 0,
+    "meaning": "a partiality that prevents objective consideration of an issue or situation",
+    "example": "you are biasing my choice by telling me yours"
+  },
+  {
+    "index": 38,
+    "text": "Bittersweet",
+    "learned": 0,
+    "meaning": "poisonous perennial Old World vine having violet flowers and oval coral-red berries; widespread weed in North America",
+    "example": "a movie with a bittersweet ending"
+  },
+  {
+    "index": 39,
+    "text": "Bolster",
+    "learned": 0,
+    "meaning": "a pillow that is often put across a bed underneath the regular pillows",
+    "example": "bolster morale"
+  },
+  {
+    "index": 40,
+    "text": "Boost",
+    "learned": 0,
+    "meaning": "the act of giving hope or support to someone",
+    "example": "they asked for a 10% rise in rates"
+  },
+  {
+    "index": 41,
+    "text": "Brawl",
+    "learned": 0,
+    "meaning": "an uproarious party",
+    "example": "The bar keeper threw them out, but they continued to wrangle on down the street"
+  },
+  {
+    "index": 42,
+    "text": "Brevity",
+    "learned": 0,
+    "meaning": "the use of brief expressions",
+    "example": ""
+  },
+  {
+    "index": 43,
+    "text": "Candid",
+    "learned": 0,
+    "meaning": "characterized by directness in manner or speech; without subtlety or evasion",
+    "example": "blunt talking and straight shooting"
+  },
+  {
+    "index": 44,
+    "text": "Candor",
+    "learned": 0,
+    "meaning": "ability to make judgments free from discrimination or dishonesty",
+    "example": ""
+  },
+  {
+    "index": 45,
+    "text": "Capitalize",
+    "learned": 0,
+    "meaning": "draw advantages from",
+    "example": "he is capitalizing on her mistake"
+  },
+  {
+    "index": 46,
+    "text": "Capture",
+    "learned": 0,
+    "meaning": "the act of forcibly dispossessing an owner of property",
+    "example": "capture the essence of Spring"
+  },
+  {
+    "index": 47,
+    "text": "Civic",
+    "learned": 0,
+    "meaning": "of or relating or belonging to a city",
+    "example": "civic center"
+  },
+  {
+    "index": 48,
+    "text": "Clinical",
+    "learned": 0,
+    "meaning": "relating to a clinic or conducted in or as if in a clinic and depending on direct observation of patients",
+    "example": "clinical observation"
+  },
+  {
+    "index": 49,
+    "text": "Clout",
+    "learned": 0,
+    "meaning": "a target used in archery",
+    "example": "the chairman's nephew has a lot of pull"
+  },
+  {
+    "index": 50,
+    "text": "Coarse",
+    "learned": 0,
+    "meaning": "of textures that are rough to the touch or substances consisting of relatively large particles",
+    "example": "coarse meal"
+  },
+  {
+    "index": 51,
+    "text": "Coincide",
+    "learned": 0,
+    "meaning": "go with, fall together",
+    "example": "The two events coincided"
+  },
+  {
+    "index": 52,
+    "text": "Commission",
+    "learned": 0,
+    "meaning": "a special group delegated to consider some matter;  - Milton Berle",
+    "example": "a committee is a group that keeps minutes and loses hours"
+  },
+  {
+    "index": 53,
+    "text": "Comparable",
+    "learned": 0,
+    "meaning": "able to be compared or worthy of comparison",
+    "example": "boxes with corresponding dimensions"
+  },
+  {
+    "index": 54,
+    "text": "Competent",
+    "learned": 0,
+    "meaning": "properly or sufficiently qualified or capable or efficient",
+    "example": "a competent typist"
+  },
+  {
+    "index": 55,
+    "text": "Complacent",
+    "learned": 0,
+    "meaning": "contented to a fault with oneself or one's actions",
+    "example": "he had become complacent after years of success"
+  },
+  {
+    "index": 56,
+    "text": "Complement",
+    "learned": 0,
+    "meaning": "a word or phrase used to complete a grammatical construction",
+    "example": "a full complement"
+  },
+  {
+    "index": 57,
+    "text": "Concede",
+    "learned": 0,
+    "meaning": "admit (to a wrongdoing)",
+    "example": "She confessed that she had taken the money"
+  },
+  {
+    "index": 58,
+    "text": "Conceive",
+    "learned": 0,
+    "meaning": "have the idea for",
+    "example": "He conceived of a robot that would help paralyzed patients"
+  },
+  {
+    "index": 59,
+    "text": "Condone",
+    "learned": 0,
+    "meaning": "excuse, overlook, or make allowances for; be lenient with",
+    "example": "excuse someone's behavior"
+  },
+  {
+    "index": 60,
+    "text": "Conducive",
+    "learned": 0,
+    "meaning": "tending to bring about; being partly responsible for",
+    "example": "working conditions are not conducive to productivity"
+  },
+  {
+    "index": 61,
+    "text": "Conduct",
+    "learned": 0,
+    "meaning": "manner of acting or controlling yourself",
+    "example": "You cannot conduct business like this"
+  },
+  {
+    "index": 62,
+    "text": "Confide",
+    "learned": 0,
+    "meaning": "reveal in private; tell confidentially",
+    "example": "The messenger was entrusted with the general's secret"
+  },
+  {
+    "index": 63,
+    "text": "Confine",
+    "learned": 0,
+    "meaning": "place limits on (extent or access)",
+    "example": "restrict the use of this parking lot"
+  },
+  {
+    "index": 64,
+    "text": "Consensus",
+    "learned": 0,
+    "meaning": "agreement in the judgment or opinion reached by a group as a whole",
+    "example": "the lack of consensus reflected differences in theoretical positions"
+  },
+  {
+    "index": 65,
+    "text": "Constitute",
+    "learned": 0,
+    "meaning": "form or compose",
+    "example": "This money is my only income"
+  },
+  {
+    "index": 66,
+    "text": "Contemplate",
+    "learned": 0,
+    "meaning": "look at thoughtfully; observe deep in thought",
+    "example": "contemplate one's navel"
+  },
+  {
+    "index": 67,
+    "text": "Contend",
+    "learned": 0,
+    "meaning": "maintain or assert",
+    "example": "He contended that Communism had no future"
+  },
+  {
+    "index": 68,
+    "text": "Contradict",
+    "learned": 0,
+    "meaning": "be in contradiction with",
+    "example": "The board opposed his motion"
+  },
+  {
+    "index": 69,
+    "text": "Controversial",
+    "learned": 0,
+    "meaning": "marked by or capable of arousing controversy",
+    "example": "the issue of the death penalty is highly controversial"
+  },
+  {
+    "index": 70,
+    "text": "Conventional",
+    "learned": 0,
+    "meaning": "following accepted customs and proprieties",
+    "example": "conventional wisdom"
+  },
+  {
+    "index": 71,
+    "text": "Convey",
+    "learned": 0,
+    "meaning": "make known; pass on, of information",
+    "example": "She conveyed the message to me"
+  },
+  {
+    "index": 72,
+    "text": "Conviction",
+    "learned": 0,
+    "meaning": "an unshakable belief in something without need for proof or evidence",
+    "example": "the conviction came as no surprise"
+  },
+  {
+    "index": 73,
+    "text": "Corroborate",
+    "learned": 0,
+    "meaning": "establish or strengthen as with new evidence or facts",
+    "example": "his story confirmed my doubts"
+  },
+  {
+    "index": 74,
+    "text": "Counteract",
+    "learned": 0,
+    "meaning": "act in opposition to",
+    "example": "This will counteract the foolish actions of my colleagues"
+  },
+  {
+    "index": 75,
+    "text": "Counterargument",
+    "learned": 0,
+    "meaning": "an argument offered in opposition to another argument",
+    "example": ""
+  },
+  {
+    "index": 76,
+    "text": "Counterproductive",
+    "learned": 0,
+    "meaning": "tending to hinder the achievement of a goal",
+    "example": ""
+  },
+  {
+    "index": 77,
+    "text": "Culmination",
+    "learned": 0,
+    "meaning": "a final climactic stage",
+    "example": "their achievements stand as a culmination of centuries of development"
+  },
+  {
+    "index": 78,
+    "text": "Cultivate",
+    "learned": 0,
+    "meaning": "foster the growth of",
+    "example": "Work the soil"
+  },
+  {
+    "index": 79,
+    "text": "Decree",
+    "learned": 0,
+    "meaning": "a legally binding command or decision entered on the court record (as if issued by a court or judge)",
+    "example": "a friend in New Mexico said that the order caused no trouble out there"
+  },
+  {
+    "index": 80,
+    "text": "Deference",
+    "learned": 0,
+    "meaning": "a courteous expression (by word or deed) of esteem or regard",
+    "example": "his deference to her wishes was very flattering"
+  },
+  {
+    "index": 81,
+    "text": "Deficient",
+    "learned": 0,
+    "meaning": "inadequate in amount or degree",
+    "example": "a deficient education"
+  },
+  {
+    "index": 82,
+    "text": "Demonstrate",
+    "learned": 0,
+    "meaning": "give an exhibition of to an interested audience",
+    "example": "She shows her dogs frequently"
+  },
+  {
+    "index": 83,
+    "text": "Demur",
+    "learned": 0,
+    "meaning": "(law) a formal objection to an opponent's pleadings",
+    "example": "he demurred at my suggestion to work on Saturday"
+  },
+  {
+    "index": 84,
+    "text": "Deplete",
+    "learned": 0,
+    "meaning": "use up (resources or materials)",
+    "example": "this car consumes a lot of gas"
+  },
+  {
+    "index": 85,
+    "text": "Desolate",
+    "learned": 0,
+    "meaning": "leave someone who needs or counts on you; leave in the lurch",
+    "example": "The mother deserted her children"
+  },
+  {
+    "index": 86,
+    "text": "Devise",
+    "learned": 0,
+    "meaning": "a will disposing of real property",
+    "example": "excogitate a way to measure the speed of light"
+  },
+  {
+    "index": 87,
+    "text": "Dilemma",
+    "learned": 0,
+    "meaning": "state of uncertainty or perplexity especially as requiring a choice between equally unfavorable options",
+    "example": ""
+  },
+  {
+    "index": 88,
+    "text": "Diligence",
+    "learned": 0,
+    "meaning": "conscientiousness in paying proper attention to a task; giving the degree of care required in a given situation",
+    "example": "his diligence won him quick promotions"
+  },
+  {
+    "index": 89,
+    "text": "Diminish",
+    "learned": 0,
+    "meaning": "decrease in size, extent, or range",
+    "example": "The amount of homework decreased towards the end of the semester"
+  },
+  {
+    "index": 90,
+    "text": "Dire",
+    "learned": 0,
+    "meaning": "fraught with extreme danger; nearly hopeless; ; - G.C.Marshall",
+    "example": "a desperate illness"
+  },
+  {
+    "index": 91,
+    "text": "Discord",
+    "learned": 0,
+    "meaning": "lack of agreement or harmony",
+    "example": ""
+  },
+  {
+    "index": 92,
+    "text": "Disdain",
+    "learned": 0,
+    "meaning": "lack of respect accompanied by a feeling of intense dislike",
+    "example": "he was held in contempt"
+  },
+  {
+    "index": 93,
+    "text": "Dismay",
+    "learned": 0,
+    "meaning": "the feeling of despair in the face of obstacles",
+    "example": "These news depressed her"
+  },
+  {
+    "index": 94,
+    "text": "Disparage",
+    "learned": 0,
+    "meaning": "express a negative opinion of",
+    "example": "She disparaged her student's efforts"
+  },
+  {
+    "index": 95,
+    "text": "Dispatch",
+    "learned": 0,
+    "meaning": "an official report (usually sent in haste)",
+    "example": "it was done with dispatch"
+  },
+  {
+    "index": 96,
+    "text": "Diversification",
+    "learned": 0,
+    "meaning": "the act of introducing variety (especially in investments or in the variety of goods and services offered)",
+    "example": "my broker recommended a greater diversification of my investments"
+  },
+  {
+    "index": 97,
+    "text": "Doctrine",
+    "learned": 0,
+    "meaning": "a belief (or system of beliefs) accepted as authoritative by some group or school",
+    "example": ""
+  },
+  {
+    "index": 98,
+    "text": "Dominion",
+    "learned": 0,
+    "meaning": "dominance or power through legal authority",
+    "example": "France held undisputed dominion over vast areas of Africa"
+  },
+  {
+    "index": 99,
+    "text": "Dreary",
+    "learned": 0,
+    "meaning": "lacking in liveliness or charm or surprise",
+    "example": "her drab personality"
+  },
+  {
+    "index": 100,
+    "text": "Dubious",
+    "learned": 0,
+    "meaning": "fraught with uncertainty or doubt",
+    "example": "they were doubtful that the cord would hold"
+  },
+  {
+    "index": 101,
+    "text": "Eccentric",
+    "learned": 0,
+    "meaning": "a person with an unusual or odd personality",
+    "example": "a real character"
+  },
+  {
+    "index": 102,
+    "text": "Egregious",
+    "learned": 0,
+    "meaning": "conspicuously and outrageously bad or reprehensible",
+    "example": "a crying shame"
+  },
+  {
+    "index": 103,
+    "text": "Eloquent",
+    "learned": 0,
+    "meaning": "expressing yourself readily, clearly, effectively",
+    "example": "able to dazzle with his facile tongue"
+  },
+  {
+    "index": 104,
+    "text": "Eminent",
+    "learned": 0,
+    "meaning": "standing above others in quality or position",
+    "example": "people in high places"
+  },
+  {
+    "index": 105,
+    "text": "Emit",
+    "learned": 0,
+    "meaning": "expel (gases or odors)",
+    "example": "The ozone layer blocks some harmful rays which the sun emits"
+  },
+  {
+    "index": 106,
+    "text": "Emphatic",
+    "learned": 0,
+    "meaning": "spoken with emphasis",
+    "example": "an emphatic word"
+  },
+  {
+    "index": 107,
+    "text": "Empirical",
+    "learned": 0,
+    "meaning": "derived from experiment and observation rather than theory",
+    "example": "an empirical basis for an ethical theory"
+  },
+  {
+    "index": 108,
+    "text": "Endow",
+    "learned": 0,
+    "meaning": "give qualities or abilities to",
+    "example": "When she got married, she got dowered"
+  },
+  {
+    "index": 109,
+    "text": "Endure",
+    "learned": 0,
+    "meaning": "put up with something or somebody unpleasant",
+    "example": "I cannot bear his constant criticism"
+  },
+  {
+    "index": 110,
+    "text": "Entail",
+    "learned": 0,
+    "meaning": "land received by fee tail",
+    "example": "The water shortage means that we have to stop taking long showers"
+  },
+  {
+    "index": 111,
+    "text": "Entrenched",
+    "learned": 0,
+    "meaning": "fix firmly or securely",
+    "example": "This impinges on my rights as an individual"
+  },
+  {
+    "index": 112,
+    "text": "Enumerate",
+    "learned": 0,
+    "meaning": "specify individually",
+    "example": "She enumerated the many obstacles she had encountered"
+  },
+  {
+    "index": 113,
+    "text": "Envy",
+    "learned": 0,
+    "meaning": "a feeling of grudging admiration and desire to have something that is possessed by another",
+    "example": ""
+  },
+  {
+    "index": 114,
+    "text": "Erratic",
+    "learned": 0,
+    "meaning": "liable to sudden unpredictable change",
+    "example": "erratic behavior"
+  },
+  {
+    "index": 115,
+    "text": "Establish",
+    "learned": 0,
+    "meaning": "set up or found",
+    "example": "She set up a literacy program"
+  },
+  {
+    "index": 116,
+    "text": "Evoke",
+    "learned": 0,
+    "meaning": "call forth (emotions, feelings, and responses)",
+    "example": "arouse pity"
+  },
+  {
+    "index": 117,
+    "text": "Exacerbate",
+    "learned": 0,
+    "meaning": "make worse",
+    "example": "This drug aggravates the pain"
+  },
+  {
+    "index": 118,
+    "text": "Excel",
+    "learned": 0,
+    "meaning": "distinguish oneself",
+    "example": "She excelled in math"
+  },
+  {
+    "index": 119,
+    "text": "Exert",
+    "learned": 0,
+    "meaning": "put to use",
+    "example": "exert one's power or influence"
+  },
+  {
+    "index": 120,
+    "text": "Exhilarating",
+    "learned": 0,
+    "meaning": "fill with sublime emotion",
+    "example": "The children were thrilled at the prospect of going to the movies"
+  },
+  {
+    "index": 121,
+    "text": "Expend",
+    "learned": 0,
+    "meaning": "use up, consume fully",
+    "example": "The legislature expended its time on school questions"
+  },
+  {
+    "index": 122,
+    "text": "Exploit",
+    "learned": 0,
+    "meaning": "a notable achievement",
+    "example": "he performed a great feat"
+  },
+  {
+    "index": 123,
+    "text": "Facilitate",
+    "learned": 0,
+    "meaning": "make easier",
+    "example": "you could facilitate the process by sharing your knowledge"
+  },
+  {
+    "index": 124,
+    "text": "Feasibility",
+    "learned": 0,
+    "meaning": "the quality of being doable",
+    "example": ""
+  },
+  {
+    "index": 125,
+    "text": "Ferocity",
+    "learned": 0,
+    "meaning": "the property of being wild or turbulent",
+    "example": "the storm's violence"
+  },
+  {
+    "index": 126,
+    "text": "Fiscal",
+    "learned": 0,
+    "meaning": "involving financial matters",
+    "example": "fiscal responsibility"
+  },
+  {
+    "index": 127,
+    "text": "Flourish",
+    "learned": 0,
+    "meaning": "a showy gesture",
+    "example": "she entered with a great flourish"
+  },
+  {
+    "index": 128,
+    "text": "Fluctuate",
+    "learned": 0,
+    "meaning": "cause to fluctuate or move in a wavelike pattern",
+    "example": "the line on the monitor vacillated"
+  },
+  {
+    "index": 129,
+    "text": "Foment",
+    "learned": 0,
+    "meaning": "try to stir up public opinion",
+    "example": "His legs should be fomented"
+  },
+  {
+    "index": 130,
+    "text": "Foreseeable",
+    "learned": 0,
+    "meaning": "capable of being anticipated",
+    "example": "foreseeable costs were well within the budget"
+  },
+  {
+    "index": 131,
+    "text": "Frankly",
+    "learned": 0,
+    "meaning": "(used as intensives reflecting the speaker's attitude) it is sincerely the case that",
+    "example": "honestly, I don't believe it"
+  },
+  {
+    "index": 132,
+    "text": "Freewheeling",
+    "learned": 0,
+    "meaning": "live unhurriedly, irresponsibly, or freely",
+    "example": "My son drifted around for years in California before going to law school"
+  },
+  {
+    "index": 133,
+    "text": "Fundamental",
+    "learned": 0,
+    "meaning": "any factor that could be considered important to the understanding of a particular business",
+    "example": "fundamentals include a company's growth, revenues, earnings, management, and capital structure"
+  },
+  {
+    "index": 134,
+    "text": "Galvanizing",
+    "learned": 0,
+    "meaning": "to stimulate to action",
+    "example": "..startled him awake"
+  },
+  {
+    "index": 135,
+    "text": "Geriatric",
+    "learned": 0,
+    "meaning": "of or relating to the aged",
+    "example": "geriatric disorder"
+  },
+  {
+    "index": 136,
+    "text": "Hostile",
+    "learned": 0,
+    "meaning": "troops belonging to the enemy's military forces",
+    "example": "the platoon ran into a pack of hostiles"
+  },
+  {
+    "index": 137,
+    "text": "Hypothetical",
+    "learned": 0,
+    "meaning": "a hypothetical possibility, circumstance, statement, proposal, situation, etc.",
+    "example": "consider the following, just as a hypothetical"
+  },
+  {
+    "index": 138,
+    "text": "Ignominious",
+    "learned": 0,
+    "meaning": "(used of conduct or character) deserving or bringing disgrace or shame; - Rachel Carson",
+    "example": "Man...has written one of his blackest records as a destroyer on the oceanic islands"
+  },
+  {
+    "index": 139,
+    "text": "Impart",
+    "learned": 0,
+    "meaning": "transmit (knowledge or skills)",
+    "example": "give a secret to the Russians"
+  },
+  {
+    "index": 140,
+    "text": "Impartiality",
+    "learned": 0,
+    "meaning": "an inclination to weigh both views or opinions equally",
+    "example": ""
+  },
+  {
+    "index": 141,
+    "text": "Imposing",
+    "learned": 0,
+    "meaning": "compel to behave in a certain way",
+    "example": "Social relations impose courtesy"
+  },
+  {
+    "index": 142,
+    "text": "Imposition",
+    "learned": 0,
+    "meaning": "the act of imposing something (as a tax or an embargo)",
+    "example": "he listened but resented the imposition"
+  },
+  {
+    "index": 143,
+    "text": "Imprudent",
+    "learned": 0,
+    "meaning": "not prudent or wise; ; - A.M.Schlesinger",
+    "example": "very imprudent of her mother to encourage her in such silly romantic ideas"
+  },
+  {
+    "index": 144,
+    "text": "Incite",
+    "learned": 0,
+    "meaning": "give an incentive for action",
+    "example": "This moved me to sacrifice my career"
+  },
+  {
+    "index": 145,
+    "text": "Indifference",
+    "learned": 0,
+    "meaning": "unbiased impartial unconcern",
+    "example": ""
+  },
+  {
+    "index": 146,
+    "text": "Indiscriminately",
+    "learned": 0,
+    "meaning": "in a random manner",
+    "example": "the houses were randomly scattered"
+  },
+  {
+    "index": 147,
+    "text": "Indulge",
+    "learned": 0,
+    "meaning": "give free rein to",
+    "example": "The writer indulged in metaphorical language"
+  },
+  {
+    "index": 148,
+    "text": "Infer",
+    "learned": 0,
+    "meaning": "reason by deduction; establish by deduction",
+    "example": "He guessed the right number of beans in the jar and won the prize"
+  },
+  {
+    "index": 149,
+    "text": "Innovative",
+    "learned": 0,
+    "meaning": "ahead of the times",
+    "example": "the advanced teaching methods"
+  },
+  {
+    "index": 150,
+    "text": "Insatiable",
+    "learned": 0,
+    "meaning": "impossible to satisfy",
+    "example": "an insatiate appetite"
+  },
+  {
+    "index": 151,
+    "text": "Inversion",
+    "learned": 0,
+    "meaning": "the layer of air near the earth is cooler than an overlying layer",
+    "example": ""
+  },
+  {
+    "index": 152,
+    "text": "Invoke",
+    "learned": 0,
+    "meaning": "summon into action or bring into existence, often as if by magic",
+    "example": "raise the specter of unemployment"
+  },
+  {
+    "index": 153,
+    "text": "Irreconcilable",
+    "learned": 0,
+    "meaning": "impossible to reconcile",
+    "example": "irreconcilable differences"
+  },
+  {
+    "index": 154,
+    "text": "Lament",
+    "learned": 0,
+    "meaning": "a cry of sorrow and grief",
+    "example": "their pitiful laments could be heard throughout the ward"
+  },
+  {
+    "index": 155,
+    "text": "Locomotion",
+    "learned": 0,
+    "meaning": "the power or ability to move",
+    "example": ""
+  },
+  {
+    "index": 156,
+    "text": "Lucrative",
+    "learned": 0,
+    "meaning": "producing a sizeable profit",
+    "example": "a remunerative business"
+  },
+  {
+    "index": 157,
+    "text": "Malicious",
+    "learned": 0,
+    "meaning": "having the nature of or resulting from malice; ; - Rudyard Kipling",
+    "example": "malicious gossip"
+  },
+  {
+    "index": 158,
+    "text": "Malleable",
+    "learned": 0,
+    "meaning": "easily influenced",
+    "example": "ductile copper"
+  },
+  {
+    "index": 159,
+    "text": "Materialistic",
+    "learned": 0,
+    "meaning": "marked by materialism",
+    "example": "a bourgeois mentality"
+  },
+  {
+    "index": 160,
+    "text": "Melodramatic",
+    "learned": 0,
+    "meaning": "having the excitement and emotional appeal of melodrama",
+    "example": "a melodramatic account of two perilous days at sea"
+  },
+  {
+    "index": 161,
+    "text": "Modest",
+    "learned": 0,
+    "meaning": "marked by simplicity; having a humble opinion of yourself",
+    "example": "a modest apartment"
+  },
+  {
+    "index": 162,
+    "text": "Modify",
+    "learned": 0,
+    "meaning": "make less severe or harsh or extreme",
+    "example": "please modify this letter to make it more polite"
+  },
+  {
+    "index": 163,
+    "text": "Momentous",
+    "learned": 0,
+    "meaning": "of very great significance",
+    "example": "deciding to drop the atom bomb was a very big decision"
+  },
+  {
+    "index": 164,
+    "text": "Novel",
+    "learned": 0,
+    "meaning": "an extended fictional work in prose; usually in the form of a story",
+    "example": "his bookcases were filled with nothing but novels"
+  },
+  {
+    "index": 165,
+    "text": "Nuance",
+    "learned": 0,
+    "meaning": "a subtle difference in meaning or opinion or attitude",
+    "example": "without understanding the finer nuances you can't enjoy the humor"
+  },
+  {
+    "index": 166,
+    "text": "Null",
+    "learned": 0,
+    "meaning": "a quantity of no importance",
+    "example": "it looked like nothing I had ever seen before"
+  },
+  {
+    "index": 167,
+    "text": "Objectivity",
+    "learned": 0,
+    "meaning": "judgment based on observable phenomena and uninfluenced by emotions or personal prejudices",
+    "example": ""
+  },
+  {
+    "index": 168,
+    "text": "Obsolete",
+    "learned": 0,
+    "meaning": "no longer in use",
+    "example": "obsolete words"
+  },
+  {
+    "index": 169,
+    "text": "Omnipotent",
+    "learned": 0,
+    "meaning": "having unlimited power",
+    "example": ""
+  },
+  {
+    "index": 170,
+    "text": "Onset",
+    "learned": 0,
+    "meaning": "the beginning or early stages",
+    "example": "the onset of pneumonia"
+  },
+  {
+    "index": 171,
+    "text": "Opine",
+    "learned": 0,
+    "meaning": "express one's opinion openly and without fear or hesitation",
+    "example": "John spoke up at the meeting"
+  },
+  {
+    "index": 172,
+    "text": "Ornate",
+    "learned": 0,
+    "meaning": "marked by elaborate rhetoric and elaborated with decorative details; ; -John Milton",
+    "example": "a flowery speech"
+  },
+  {
+    "index": 173,
+    "text": "Oust",
+    "learned": 0,
+    "meaning": "remove from a position or office",
+    "example": "The chairman was ousted after he misappropriated funds"
+  },
+  {
+    "index": 174,
+    "text": "Paramount",
+    "learned": 0,
+    "meaning": "having superior power and influence",
+    "example": "the predominant mood among policy-makers is optimism"
+  },
+  {
+    "index": 175,
+    "text": "Peculiar",
+    "learned": 0,
+    "meaning": "beyond or deviating from the usual or expected",
+    "example": "a curious hybrid accent"
+  },
+  {
+    "index": 176,
+    "text": "Perish",
+    "learned": 0,
+    "meaning": "pass from physical life and lose all bodily attributes and functions necessary to sustain life",
+    "example": "She died from cancer"
+  },
+  {
+    "index": 177,
+    "text": "Persecute",
+    "learned": 0,
+    "meaning": "cause to suffer",
+    "example": "Jews were persecuted in the former Soviet Union"
+  },
+  {
+    "index": 178,
+    "text": "Petulant",
+    "learned": 0,
+    "meaning": "easily irritated or annoyed",
+    "example": "an incorrigibly fractious young man"
+  },
+  {
+    "index": 179,
+    "text": "Pinnacle",
+    "learned": 0,
+    "meaning": "(architecture) a slender upright spire at the top of a buttress of tower",
+    "example": "his landscapes were deemed the acme of beauty"
+  },
+  {
+    "index": 180,
+    "text": "Pitiable",
+    "learned": 0,
+    "meaning": "inspiring mixed contempt and pity",
+    "example": "their efforts were pathetic"
+  },
+  {
+    "index": 181,
+    "text": "Plausible",
+    "learned": 0,
+    "meaning": "apparently reasonable and valid, and truthful",
+    "example": "a plausible excuse"
+  },
+  {
+    "index": 182,
+    "text": "Postulate",
+    "learned": 0,
+    "meaning": "(logic) a proposition that is accepted as true in order to provide a basis for logical reasoning",
+    "example": "He contended that Communism had no future"
+  },
+  {
+    "index": 183,
+    "text": "Potent",
+    "learned": 0,
+    "meaning": "having great influence",
+    "example": "providing the ground soldier with increasingly potent weapons"
+  },
+  {
+    "index": 184,
+    "text": "Pragmatic",
+    "learned": 0,
+    "meaning": "an imperial decree that becomes part of the fundamental law of the land",
+    "example": "a matter-of-fact (or pragmatic) approach to the problem"
+  },
+  {
+    "index": 185,
+    "text": "Precedent",
+    "learned": 0,
+    "meaning": "an example that is used to justify similar occurrences at a later time",
+    "example": "common law originated in the unwritten laws of England and was later applied in the United States"
+  },
+  {
+    "index": 186,
+    "text": "Predecessor",
+    "learned": 0,
+    "meaning": "one who precedes you in time (as in holding a position or office)",
+    "example": ""
+  },
+  {
+    "index": 187,
+    "text": "Prescribe",
+    "learned": 0,
+    "meaning": "issue commands or orders for",
+    "example": ""
+  },
+  {
+    "index": 188,
+    "text": "Principle",
+    "learned": 0,
+    "meaning": "a basic generalization that is accepted as true and that can be used as a basis for reasoning or conduct",
+    "example": "their principles of composition characterized all their works"
+  },
+  {
+    "index": 189,
+    "text": "Prohibit",
+    "learned": 0,
+    "meaning": "command against",
+    "example": "I forbid you to call me late at night"
+  },
+  {
+    "index": 190,
+    "text": "Prompt",
+    "learned": 0,
+    "meaning": "a cue given to a performer (usually the beginning of the next line to be spoken)",
+    "example": "the audience could hear his prompting"
+  },
+  {
+    "index": 191,
+    "text": "Promulgate",
+    "learned": 0,
+    "meaning": "state or announce",
+    "example": "`I am not a Communist,' he exclaimed"
+  },
+  {
+    "index": 192,
+    "text": "Prosecute",
+    "learned": 0,
+    "meaning": "conduct a prosecution in a court of law",
+    "example": "The State of California prosecuted O.J. Simpson"
+  },
+  {
+    "index": 193,
+    "text": "Provocative",
+    "learned": 0,
+    "meaning": "serving or tending to provoke, excite, or stimulate; stimulating discussion or exciting controversy; ; ; - Anthony Trollope",
+    "example": "a provocative remark"
+  },
+  {
+    "index": 194,
+    "text": "Qualitative",
+    "learned": 0,
+    "meaning": "involving distinctions based on qualities",
+    "example": "qualitative change"
+  },
+  {
+    "index": 195,
+    "text": "Quantitative",
+    "learned": 0,
+    "meaning": "expressible as a quantity or relating to or susceptible of measurement",
+    "example": "export wheat without quantitative limitations"
+  },
+  {
+    "index": 196,
+    "text": "Quirk",
+    "learned": 0,
+    "meaning": "a strange attitude or habit",
+    "example": "She quirked her head in a peculiar way"
+  },
+  {
+    "index": 197,
+    "text": "Ramify",
+    "learned": 0,
+    "meaning": "have or develop complicating consequences",
+    "example": "These actions will ramify"
+  },
+  {
+    "index": 198,
+    "text": "Rash",
+    "learned": 0,
+    "meaning": "any red eruption of the skin",
+    "example": "a rash of bank robberies"
+  },
+  {
+    "index": 199,
+    "text": "Raw",
+    "learned": 0,
+    "meaning": "informal terms for nakedness",
+    "example": "in the raw"
+  },
+  {
+    "index": 200,
+    "text": "Readily",
+    "learned": 0,
+    "meaning": "without much difficulty",
+    "example": "these snakes can be identified readily"
+  },
+  {
+    "index": 201,
+    "text": "Reconsideration",
+    "learned": 0,
+    "meaning": "a consideration of a topic (as in a meeting) with a view to changing an earlier decision",
+    "example": "he had second thoughts about his purchase"
+  },
+  {
+    "index": 202,
+    "text": "Reform",
+    "learned": 0,
+    "meaning": "a change for the better as a result of correcting abuses",
+    "example": "justice was for sale before the reform of the law courts"
+  },
+  {
+    "index": 203,
+    "text": "Refute",
+    "learned": 0,
+    "meaning": "overthrow by argument, evidence, or proof",
+    "example": "The speaker refuted his opponent's arguments"
+  },
+  {
+    "index": 204,
+    "text": "Reinforce",
+    "learned": 0,
+    "meaning": "make stronger",
+    "example": "he reinforced the concrete"
+  },
+  {
+    "index": 205,
+    "text": "Reluctantly",
+    "learned": 0,
+    "meaning": "with reluctance",
+    "example": ""
+  },
+  {
+    "index": 206,
+    "text": "Renounce",
+    "learned": 0,
+    "meaning": "give up, such as power, as of monarchs and emperors, or duties and obligations",
+    "example": "The King abdicated when he married a divorcee"
+  },
+  {
+    "index": 207,
+    "text": "Reproach",
+    "learned": 0,
+    "meaning": "a mild rebuke or criticism",
+    "example": "words of reproach"
+  },
+  {
+    "index": 208,
+    "text": "Repudiate",
+    "learned": 0,
+    "meaning": "cast off",
+    "example": "She renounced her husband"
+  },
+  {
+    "index": 209,
+    "text": "Retention",
+    "learned": 0,
+    "meaning": "the act of retaining something",
+    "example": "he had a good memory when he was younger"
+  },
+  {
+    "index": 210,
+    "text": "Satiated",
+    "learned": 0,
+    "meaning": "fill to satisfaction",
+    "example": "I am sated"
+  },
+  {
+    "index": 211,
+    "text": "Savvy",
+    "learned": 0,
+    "meaning": "the cognitive condition of someone who understands",
+    "example": "he has virtually no understanding of social cause and effect"
+  },
+  {
+    "index": 212,
+    "text": "Scandalous",
+    "learned": 0,
+    "meaning": "giving offense to moral sensibilities and injurious to reputation; ; - Thackeray",
+    "example": "scandalous behavior"
+  },
+  {
+    "index": 213,
+    "text": "Scorn",
+    "learned": 0,
+    "meaning": "lack of respect accompanied by a feeling of intense dislike",
+    "example": "he was held in contempt"
+  },
+  {
+    "index": 214,
+    "text": "Scrupulous",
+    "learned": 0,
+    "meaning": "having scruples; arising from a sense of right and wrong; principled",
+    "example": "less scrupulous producers sent bundles that were deceptive in appearance"
+  },
+  {
+    "index": 215,
+    "text": "Scrutinize",
+    "learned": 0,
+    "meaning": "to look at critically or searchingly, or in minute detail",
+    "example": "he scrutinized his likeness in the mirror"
+  },
+  {
+    "index": 216,
+    "text": "Secrete",
+    "learned": 0,
+    "meaning": "generate and separate from cells or bodily fluids",
+    "example": "secrete digestive juices"
+  },
+  {
+    "index": 217,
+    "text": "Sentiment",
+    "learned": 0,
+    "meaning": "tender, romantic, or nostalgic feeling or emotion",
+    "example": "my opinion differs from yours"
+  },
+  {
+    "index": 218,
+    "text": "Sheer",
+    "learned": 0,
+    "meaning": "turn sharply; change direction abruptly",
+    "example": "The car cut to the left at the intersection"
+  },
+  {
+    "index": 219,
+    "text": "Simple",
+    "learned": 0,
+    "meaning": "any herbaceous plant having medicinal properties",
+    "example": "a simple problem"
+  },
+  {
+    "index": 220,
+    "text": "Sinister",
+    "learned": 0,
+    "meaning": "threatening or foreshadowing evil or tragic developments",
+    "example": "a baleful look"
+  },
+  {
+    "index": 221,
+    "text": "Solidarity",
+    "learned": 0,
+    "meaning": "a union of interests or purposes or sympathies among members of a group",
+    "example": ""
+  },
+  {
+    "index": 222,
+    "text": "Sparingly",
+    "learned": 0,
+    "meaning": "to a meager degree or in a meager manner",
+    "example": "these voices are meagerly represented at the conference"
+  },
+  {
+    "index": 223,
+    "text": "Spawn",
+    "learned": 0,
+    "meaning": "the mass of eggs deposited by fish or amphibians or molluscs",
+    "example": "The salmon swims upstream to spawn"
+  },
+  {
+    "index": 224,
+    "text": "Spur",
+    "learned": 0,
+    "meaning": "a verbalization that encourages you to attempt something",
+    "example": "the ceaseless prodding got on his nerves"
+  },
+  {
+    "index": 225,
+    "text": "Squalid",
+    "learned": 0,
+    "meaning": "morally degraded; ; ; ; - Seattle Weekly; - James Joyce",
+    "example": "a seedy district"
+  },
+  {
+    "index": 226,
+    "text": "Stark",
+    "learned": 0,
+    "meaning": "devoid of any qualifications or disguise or adornment",
+    "example": "the blunt truth"
+  },
+  {
+    "index": 227,
+    "text": "Static",
+    "learned": 0,
+    "meaning": "a crackling or hissing noise caused by electrical interference",
+    "example": "they will probably give you a lot of static about your editorial"
+  },
+  {
+    "index": 228,
+    "text": "Subordinate",
+    "learned": 0,
+    "meaning": "an assistant subject to the authority or control of another",
+    "example": "Art is sometimes subordinated to Science in these schools"
+  },
+  {
+    "index": 229,
+    "text": "Subsequently",
+    "learned": 0,
+    "meaning": "happening at a time subsequent to a reference time",
+    "example": "he apologized subsequently"
+  },
+  {
+    "index": 230,
+    "text": "Substantial",
+    "learned": 0,
+    "meaning": "fairly large",
+    "example": "won by a substantial margin"
+  },
+  {
+    "index": 231,
+    "text": "Substantiate",
+    "learned": 0,
+    "meaning": "establish or strengthen as with new evidence or facts",
+    "example": "his story confirmed my doubts"
+  },
+  {
+    "index": 232,
+    "text": "Subtle",
+    "learned": 0,
+    "meaning": "difficult to detect or grasp by the mind or analyze",
+    "example": "his whole attitude had undergone a subtle change"
+  },
+  {
+    "index": 233,
+    "text": "Sufficient",
+    "learned": 0,
+    "meaning": "of a quantity that can fulfill a need or requirement but without being abundant",
+    "example": "sufficient food"
+  },
+  {
+    "index": 234,
+    "text": "Surly",
+    "learned": 0,
+    "meaning": "inclined to anger or bad feelings with overtones of menace",
+    "example": "a surly waiter"
+  },
+  {
+    "index": 235,
+    "text": "Surmount",
+    "learned": 0,
+    "meaning": "get on top of; deal with successfully",
+    "example": "He overcame his shyness"
+  },
+  {
+    "index": 236,
+    "text": "Susceptible",
+    "learned": 0,
+    "meaning": "(often followed by `of' or `to') yielding readily to or capable of",
+    "example": "susceptible to colds"
+  },
+  {
+    "index": 237,
+    "text": "Tactful",
+    "learned": 0,
+    "meaning": "having or showing a sense of what is fitting and considerate in dealing with others",
+    "example": "she was tactful enough not to shatter his illusion"
+  },
+  {
+    "index": 238,
+    "text": "Taut",
+    "learned": 0,
+    "meaning": "pulled or drawn tight",
+    "example": "taut sails"
+  },
+  {
+    "index": 239,
+    "text": "Teeming",
+    "learned": 0,
+    "meaning": "be teeming, be abuzz",
+    "example": "The garden was swarming with bees"
+  },
+  {
+    "index": 240,
+    "text": "Temperament",
+    "learned": 0,
+    "meaning": "your usual mood",
+    "example": "he has a happy disposition"
+  },
+  {
+    "index": 241,
+    "text": "Tentative",
+    "learned": 0,
+    "meaning": "under terms not final or fully worked out or agreed upon",
+    "example": "probationary employees"
+  },
+  {
+    "index": 242,
+    "text": "Transparent",
+    "learned": 0,
+    "meaning": "transmitting light; able to be seen through with clarity",
+    "example": "the cold crystalline water of melted snow"
+  },
+  {
+    "index": 243,
+    "text": "Treacherous",
+    "learned": 0,
+    "meaning": "dangerously unstable and unpredictable",
+    "example": "treacherous winding roads"
+  },
+  {
+    "index": 244,
+    "text": "Tremendous",
+    "learned": 0,
+    "meaning": "extraordinarily large in size or extent or amount or power or degree; ; ; ; - Walter Lippman",
+    "example": "an enormous boulder"
+  },
+  {
+    "index": 245,
+    "text": "Ubiquitous",
+    "learned": 0,
+    "meaning": "being present everywhere at once",
+    "example": ""
+  },
+  {
+    "index": 246,
+    "text": "Unadorned",
+    "learned": 0,
+    "meaning": "not decorated with something to increase its beauty or distinction",
+    "example": ""
+  },
+  {
+    "index": 247,
+    "text": "Undermine",
+    "learned": 0,
+    "meaning": "destroy property or hinder normal operations",
+    "example": "The Resistance sabotaged railroad operations during the war"
+  },
+  {
+    "index": 248,
+    "text": "Underscore",
+    "learned": 0,
+    "meaning": "a line drawn underneath (especially under written matter)",
+    "example": "Her gesture emphasized her words"
+  },
+  {
+    "index": 249,
+    "text": "Undulate",
+    "learned": 0,
+    "meaning": "stir up (water) so as to form ripples",
+    "example": "The hills rolled past"
+  },
+  {
+    "index": 250,
+    "text": "Unilateral",
+    "learned": 0,
+    "meaning": "involving only one part or side",
+    "example": "unilateral paralysis"
+  },
+  {
+    "index": 251,
+    "text": "Unjust",
+    "learned": 0,
+    "meaning": "not fair; marked by injustice or partiality or deception",
+    "example": "used unfair methods"
+  },
+  {
+    "index": 252,
+    "text": "Unmitigated",
+    "learned": 0,
+    "meaning": "not diminished or moderated in intensity or severity; sometimes used as an intensifier",
+    "example": "unmitigated suffering"
+  },
+  {
+    "index": 253,
+    "text": "Unprecedented",
+    "learned": 0,
+    "meaning": "having no precedent; novel",
+    "example": "an unprecedented expansion in population and industry"
+  },
+  {
+    "index": 254,
+    "text": "Unveil",
+    "learned": 0,
+    "meaning": "remove the veil from",
+    "example": "Women must not unveil themselves in public in Islamic societies"
+  },
+  {
+    "index": 255,
+    "text": "Urge",
+    "learned": 0,
+    "meaning": "an instinctive motive",
+    "example": "profound religious impulses"
+  },
+  {
+    "index": 256,
+    "text": "Validate",
+    "learned": 0,
+    "meaning": "declare or make legally valid",
+    "example": "validate a ticket"
+  },
+  {
+    "index": 257,
+    "text": "Viability",
+    "learned": 0,
+    "meaning": "(of living things) capable of normal growth and development",
+    "example": ""
+  },
+  {
+    "index": 258,
+    "text": "Vital",
+    "learned": 0,
+    "meaning": "urgently needed; absolutely necessary",
+    "example": "a critical element of the plan"
+  },
+  {
+    "index": 259,
+    "text": "Vow",
+    "learned": 0,
+    "meaning": "a solemn pledge (to oneself or to another or to a deity) to do something or to behave in a certain manner",
+    "example": "they took vows of poverty"
+  },
+  {
+    "index": 260,
+    "text": "Warrant",
+    "learned": 0,
+    "meaning": "a writ from a court commanding police to perform specified acts",
+    "example": "as a sweetener they offered warrants along with the fixed-income securities"
+  },
+  {
+    "index": 261,
+    "text": "Yield",
+    "learned": 0,
+    "meaning": "production of a certain amount",
+    "example": "the average return was about 5%"
+  }
 ]
