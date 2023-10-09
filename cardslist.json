@@ -12,8 +12,8 @@
     "total": 66
   },
   {
-    "id": "1000_sat_words.json",
-    "name": "1000 GRE words for SAT",
+    "id": "sat32.json",
+    "name": "32 SAT Words",
     "progress": 0,
     "total": 10000
   }
