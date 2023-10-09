@@ -4,245 +4,245 @@
     "text": "Aberrant",
     "learned": 0,
     "example": "Her aberrant behavior raised concerns among her colleagues.",
-    "meaning": "Deviating from the norm or usual course.\n()"
+    "meaning": "Deviating from the norm or usual course.\n(['Anomalous', 'Atypical', 'Irregular'])"
   },
   {
     "index": 1,
     "text": "Abject",
     "learned": 0,
     "example": "The refugees were living in abject poverty.",
-    "meaning": "Miserable, wretched, or in a low state.\n()"
+    "meaning": "Miserable, wretched, or in a low state.\n(['Dismal', 'Forlorn', 'Deplorable'])"
   },
   {
     "index": 2,
     "text": "Ameliorate",
     "learned": 0,
     "example": "The new law is expected to ameliorate the living conditions of the citizens.",
-    "meaning": "To make something better or improve a situation.\n()"
+    "meaning": "To make something better or improve a situation.\n(['Enhance', 'Alleviate', 'Mitigate'])"
   },
   {
     "index": 3,
     "text": "Analogous",
     "learned": 0,
     "example": "The relationship between the two concepts is analogous to that of a parent and child.",
-    "meaning": "Comparable or similar in some way.\n()"
+    "meaning": "Comparable or similar in some way.\n(['Similar', 'Alike', 'Comparable'])"
   },
   {
     "index": 4,
     "text": "Arcane",
     "learned": 0,
     "example": "The arcane rituals of the ancient cult remained a mystery to outsiders.",
-    "meaning": "Understood by only a few; mysterious or secret.\n()"
+    "meaning": "Understood by only a few; mysterious or secret.\n(['Obscure', 'Enigmatic', 'Cryptic'])"
   },
   {
     "index": 5,
     "text": "Ardent",
     "learned": 0,
     "example": "She was an ardent supporter of social justice causes.",
-    "meaning": "Enthusiastic, passionate, or eager.\n()"
+    "meaning": "Enthusiastic, passionate, or eager.\n(['Zealous', 'Fervent', 'Intense'])"
   },
   {
     "index": 6,
     "text": "Austere",
     "learned": 0,
     "example": "The monastery had an austere atmosphere of simplicity and discipline.",
-    "meaning": "Stern, strict, or severe in manner or appearance.\n()"
+    "meaning": "Stern, strict, or severe in manner or appearance.\n(['Spartan', 'Austere', 'Austere'])"
   },
   {
     "index": 7,
     "text": "Banal",
     "learned": 0,
     "example": "The movie's plot was so banal that it failed to captivate the audience.",
-    "meaning": "Lacking in originality; trite or common.\n()"
+    "meaning": "Lacking in originality; trite or common.\n(['Clich\u00e9d', 'Predictable', 'Trivial'])"
   },
   {
     "index": 8,
     "text": "Benevolent",
     "learned": 0,
     "example": "Her benevolent actions included donating to local charities regularly.",
-    "meaning": "Kindly, charitable, or well-meaning.\n()"
+    "meaning": "Kindly, charitable, or well-meaning.\n(['Generous', 'Compassionate', 'Philanthropic'])"
   },
   {
     "index": 9,
     "text": "Cacophony",
     "learned": 0,
     "example": "The cacophony of car horns in the traffic jam was deafening.",
-    "meaning": "A harsh, discordant mixture of sounds.\n()"
+    "meaning": "A harsh, discordant mixture of sounds.\n(['Discord', 'Dissonance', 'Racket'])"
   },
   {
     "index": 10,
     "text": "Capricious",
     "learned": 0,
     "example": "Her capricious nature made it difficult to anticipate her actions.",
-    "meaning": "Unpredictable, impulsive, or subject to whim.\n()"
+    "meaning": "Unpredictable, impulsive, or subject to whim.\n(['Whimsical', 'Fickle', 'Unpredictable'])"
   },
   {
     "index": 11,
     "text": "Censure",
     "learned": 0,
     "example": "The board of directors decided to censure the CEO for financial misconduct.",
-    "meaning": "To express strong disapproval or criticism.\n()"
+    "meaning": "To express strong disapproval or criticism.\n(['Condemn', 'Reprimand', 'Denounce'])"
   },
   {
     "index": 12,
     "text": "Clandestine",
     "learned": 0,
     "example": "They held a clandestine meeting to discuss their plans.",
-    "meaning": "Secret, concealed, or done in secrecy.\n()"
+    "meaning": "Secret, concealed, or done in secrecy.\n(['Covert', 'Hidden', 'Stealthy'])"
   },
   {
     "index": 13,
     "text": "Cloying",
     "learned": 0,
     "example": "The cloying romantic dialogue in the movie made some viewers cringe.",
-    "meaning": "Excessively sweet or sentimental in a way that is unpleasant.\n()"
+    "meaning": "Excessively sweet or sentimental in a way that is unpleasant.\n(['Syrupy', 'Mawkish', 'Overly sweet'])"
   },
   {
     "index": 14,
     "text": "Conciliatory",
     "learned": 0,
     "example": "His conciliatory remarks helped ease the tension between the two parties.",
-    "meaning": "Intended to soothe or reconcile; making peace.\n()"
+    "meaning": "Intended to soothe or reconcile; making peace.\n(['Peacemaking', 'Appeasing', 'Reconciling'])"
   },
   {
     "index": 15,
     "text": "Cursory",
     "learned": 0,
     "example": "She gave the report only a cursory glance before the meeting.",
-    "meaning": "Hasty, done with little attention to detail.\n()"
+    "meaning": "Hasty, done with little attention to detail.\n(['Superficial', 'Brief', 'Rapid'])"
   },
   {
     "index": 16,
     "text": "Debilitate",
     "learned": 0,
     "example": "The illness debilitated him to the point of bedrest.",
-    "meaning": "To make someone weak or infirm.\n()"
+    "meaning": "To make someone weak or infirm.\n(['Weaken', 'Enfeeble', 'Impair'])"
   },
   {
     "index": 17,
     "text": "Deleterious",
     "learned": 0,
     "example": "The deleterious effects of smoking on one's health are well-documented.",
-    "meaning": "Harmful or damaging to health or well-being.\n()"
+    "meaning": "Harmful or damaging to health or well-being.\n(['Harmful', 'Injurious', 'Destructive'])"
   },
   {
     "index": 18,
     "text": "Demure",
     "learned": 0,
     "example": "Her demure demeanor belied her strong inner resolve.",
-    "meaning": "Reserved, modest, or shy in a way that is charming.\n()"
+    "meaning": "Reserved, modest, or shy in a way that is charming.\n(['Bashful', 'Coquettish', 'Coy'])"
   },
   {
     "index": 19,
     "text": "Deride",
     "learned": 0,
     "example": "He derided their efforts, calling them foolish.",
-    "meaning": "To mock, ridicule, or scorn with contempt.\n()"
+    "meaning": "To mock, ridicule, or scorn with contempt.\n(['Mock', 'Scoff', 'Scorn'])"
   },
   {
     "index": 20,
     "text": "Desolate",
     "learned": 0,
     "example": "The desert was a desolate and unforgiving landscape.",
-    "meaning": "Barren, empty, or devoid of life and comfort.\n()"
+    "meaning": "Barren, empty, or devoid of life and comfort.\n(['Bleak', 'Deserted', 'Forlorn'])"
   },
   {
     "index": 21,
     "text": "Dilatory",
     "learned": 0,
     "example": "His dilatory approach to completing assignments often led to missed deadlines.",
-    "meaning": "Tending to delay or procrastinate; slow-moving.\n()"
+    "meaning": "Tending to delay or procrastinate; slow-moving.\n(['Procrastinating', 'Laggard', 'Sluggish'])"
   },
   {
     "index": 22,
     "text": "Ebullient",
     "learned": 0,
     "example": "Her ebullient personality was infectious and brightened up the room.",
-    "meaning": "Overflowing with enthusiasm, excitement, or energy.\n()"
+    "meaning": "Overflowing with enthusiasm, excitement, or energy.\n(['Enthusiastic', 'Excited', 'Joyful'])"
   },
   {
     "index": 23,
     "text": "Egregious",
     "learned": 0,
     "example": "The judge criticized the defendant for his egregious actions.",
-    "meaning": "Outstandingly bad, shocking, or flagrant.\n()"
+    "meaning": "Outstandingly bad, shocking, or flagrant.\n(['Shocking', 'Appalling', 'Blatant'])"
   },
   {
     "index": 24,
     "text": "Eloquent",
     "learned": 0,
     "example": "Her eloquent speech moved the audience to tears.",
-    "meaning": "Fluent or persuasive in speaking or writing.\n()"
+    "meaning": "Fluent or persuasive in speaking or writing.\n(['Articulate', 'Expressive', 'Fluent'])"
   },
   {
     "index": 25,
     "text": "Enervate",
     "learned": 0,
     "example": "The long hours of work began to enervate him, leaving him exhausted.",
-    "meaning": "To weaken or drain of energy; to cause to feel tired or sluggish.\n()"
+    "meaning": "To weaken or drain of energy; to cause to feel tired or sluggish.\n(['Weaken', 'Drain', 'Exhaust'])"
   },
   {
     "index": 26,
     "text": "Ephemeral",
     "learned": 0,
     "example": "The beauty of cherry blossoms is ephemeral, lasting only a few days.",
-    "meaning": "Lasting for a very short time; transient or fleeting.\n()"
+    "meaning": "Lasting for a very short time; transient or fleeting.\n(['Transitory', 'Short-lived', 'Fleeting'])"
   },
   {
     "index": 27,
     "text": "Esoteric",
     "learned": 0,
     "example": "His esoteric knowledge of ancient languages impressed his colleagues.",
-    "meaning": "Intended for or understood by only a select group; obscure or mysterious.\n()"
+    "meaning": "Intended for or understood by only a select group; obscure or mysterious.\n(['Obscure', 'Cryptic', 'Arcane'])"
   },
   {
     "index": 28,
     "text": "Exacerbate",
     "learned": 0,
     "example": "His insensitive comments only served to exacerbate the tension in the room.",
-    "meaning": "To make a problem, situation, or feeling worse; to aggravate or intensify.\n()"
+    "meaning": "To make a problem, situation, or feeling worse; to aggravate or intensify.\n(['Aggravate', 'Worsen', 'Intensify'])"
   },
   {
     "index": 29,
     "text": "Exonerate",
     "learned": 0,
     "example": "The evidence presented in court helped exonerate the defendant.",
-    "meaning": "To clear someone of blame or wrongdoing; to absolve from guilt or responsibility.\n()"
+    "meaning": "To clear someone of blame or wrongdoing; to absolve from guilt or responsibility.\n(['Absolve', 'Acquit', 'Clear'])"
   },
   {
     "index": 30,
     "text": "Facetious",
     "learned": 0,
     "example": "His facetious comments during the meeting were not well-received.",
-    "meaning": "Treating serious issues with deliberately inappropriate humor; flippant or joking in a lighthearted manner.\n()"
+    "meaning": "Treating serious issues with deliberately inappropriate humor; flippant or joking in a lighthearted manner.\n(['Flippant', 'Sarcastic', 'Witty'])"
   },
   {
     "index": 31,
     "text": "Fastidious",
     "learned": 0,
     "example": "She had a fastidious taste in art and spent hours analyzing each painting.",
-    "meaning": "Excessively particular, critical, or demanding; very attentive to detail.\n()"
+    "meaning": "Excessively particular, critical, or demanding; very attentive to detail.\n(['Meticulous', 'Picky', 'Precise'])"
   },
   {
     "index": 32,
     "text": "Furtive",
     "learned": 0,
     "example": "He cast a furtive glance around the room, hoping no one had seen his actions.",
-    "meaning": "Secretive, attempting to avoid notice or attention, often because of guilt or fear of discovery.\n()"
+    "meaning": "Secretive, attempting to avoid notice or attention, often because of guilt or fear of discovery.\n(['Sneaky', 'Stealthy', 'Clandestine'])"
   },
   {
     "index": 33,
     "text": "Garrulous",
     "learned": 0,
     "example": "Her garrulous nature made it difficult for anyone else to get a word in.",
-    "meaning": "Excessively talkative, especially on trivial matters.\n()"
+    "meaning": "Excessively talkative, especially on trivial matters.\n(['Talkative', 'Chatty', 'Loquacious'])"
   },
   {
     "index": 34,
     "text": "Hapless",
     "learned": 0,
     "example": "The hapless traveler faced a series of mishaps during his journey.",
-    "meaning": "Unfortunate, unlucky, or having bad luck.\n()"
+    "meaning": "Unfortunate, unlucky, or having bad luck.\n(['Unfortunate', 'Unlucky', 'Cursed'])"
   },
   {
     "index": 35,
