@@ -1,0 +1,1108 @@
+[
+  {
+    "index": 0,
+    "text": "Aberrant",
+    "learned": 0,
+    "example": "Her aberrant behavior raised concerns among her colleagues.",
+    "meaning": "Deviating from the norm or usual course.\n()"
+  },
+  {
+    "index": 1,
+    "text": "Abject",
+    "learned": 0,
+    "example": "The refugees were living in abject poverty.",
+    "meaning": "Miserable, wretched, or in a low state.\n()"
+  },
+  {
+    "index": 2,
+    "text": "Ameliorate",
+    "learned": 0,
+    "example": "The new law is expected to ameliorate the living conditions of the citizens.",
+    "meaning": "To make something better or improve a situation.\n()"
+  },
+  {
+    "index": 3,
+    "text": "Analogous",
+    "learned": 0,
+    "example": "The relationship between the two concepts is analogous to that of a parent and child.",
+    "meaning": "Comparable or similar in some way.\n()"
+  },
+  {
+    "index": 4,
+    "text": "Arcane",
+    "learned": 0,
+    "example": "The arcane rituals of the ancient cult remained a mystery to outsiders.",
+    "meaning": "Understood by only a few; mysterious or secret.\n()"
+  },
+  {
+    "index": 5,
+    "text": "Ardent",
+    "learned": 0,
+    "example": "She was an ardent supporter of social justice causes.",
+    "meaning": "Enthusiastic, passionate, or eager.\n()"
+  },
+  {
+    "index": 6,
+    "text": "Austere",
+    "learned": 0,
+    "example": "The monastery had an austere atmosphere of simplicity and discipline.",
+    "meaning": "Stern, strict, or severe in manner or appearance.\n()"
+  },
+  {
+    "index": 7,
+    "text": "Banal",
+    "learned": 0,
+    "example": "The movie's plot was so banal that it failed to captivate the audience.",
+    "meaning": "Lacking in originality; trite or common.\n()"
+  },
+  {
+    "index": 8,
+    "text": "Benevolent",
+    "learned": 0,
+    "example": "Her benevolent actions included donating to local charities regularly.",
+    "meaning": "Kindly, charitable, or well-meaning.\n()"
+  },
+  {
+    "index": 9,
+    "text": "Cacophony",
+    "learned": 0,
+    "example": "The cacophony of car horns in the traffic jam was deafening.",
+    "meaning": "A harsh, discordant mixture of sounds.\n()"
+  },
+  {
+    "index": 10,
+    "text": "Capricious",
+    "learned": 0,
+    "example": "Her capricious nature made it difficult to anticipate her actions.",
+    "meaning": "Unpredictable, impulsive, or subject to whim.\n()"
+  },
+  {
+    "index": 11,
+    "text": "Censure",
+    "learned": 0,
+    "example": "The board of directors decided to censure the CEO for financial misconduct.",
+    "meaning": "To express strong disapproval or criticism.\n()"
+  },
+  {
+    "index": 12,
+    "text": "Clandestine",
+    "learned": 0,
+    "example": "They held a clandestine meeting to discuss their plans.",
+    "meaning": "Secret, concealed, or done in secrecy.\n()"
+  },
+  {
+    "index": 13,
+    "text": "Cloying",
+    "learned": 0,
+    "example": "The cloying romantic dialogue in the movie made some viewers cringe.",
+    "meaning": "Excessively sweet or sentimental in a way that is unpleasant.\n()"
+  },
+  {
+    "index": 14,
+    "text": "Conciliatory",
+    "learned": 0,
+    "example": "His conciliatory remarks helped ease the tension between the two parties.",
+    "meaning": "Intended to soothe or reconcile; making peace.\n()"
+  },
+  {
+    "index": 15,
+    "text": "Cursory",
+    "learned": 0,
+    "example": "She gave the report only a cursory glance before the meeting.",
+    "meaning": "Hasty, done with little attention to detail.\n()"
+  },
+  {
+    "index": 16,
+    "text": "Debilitate",
+    "learned": 0,
+    "example": "The illness debilitated him to the point of bedrest.",
+    "meaning": "To make someone weak or infirm.\n()"
+  },
+  {
+    "index": 17,
+    "text": "Deleterious",
+    "learned": 0,
+    "example": "The deleterious effects of smoking on one's health are well-documented.",
+    "meaning": "Harmful or damaging to health or well-being.\n()"
+  },
+  {
+    "index": 18,
+    "text": "Demure",
+    "learned": 0,
+    "example": "Her demure demeanor belied her strong inner resolve.",
+    "meaning": "Reserved, modest, or shy in a way that is charming.\n()"
+  },
+  {
+    "index": 19,
+    "text": "Deride",
+    "learned": 0,
+    "example": "He derided their efforts, calling them foolish.",
+    "meaning": "To mock, ridicule, or scorn with contempt.\n()"
+  },
+  {
+    "index": 20,
+    "text": "Desolate",
+    "learned": 0,
+    "example": "The desert was a desolate and unforgiving landscape.",
+    "meaning": "Barren, empty, or devoid of life and comfort.\n()"
+  },
+  {
+    "index": 21,
+    "text": "Dilatory",
+    "learned": 0,
+    "example": "His dilatory approach to completing assignments often led to missed deadlines.",
+    "meaning": "Tending to delay or procrastinate; slow-moving.\n()"
+  },
+  {
+    "index": 22,
+    "text": "Ebullient",
+    "learned": 0,
+    "example": "Her ebullient personality was infectious and brightened up the room.",
+    "meaning": "Overflowing with enthusiasm, excitement, or energy.\n()"
+  },
+  {
+    "index": 23,
+    "text": "Egregious",
+    "learned": 0,
+    "example": "The judge criticized the defendant for his egregious actions.",
+    "meaning": "Outstandingly bad, shocking, or flagrant.\n()"
+  },
+  {
+    "index": 24,
+    "text": "Eloquent",
+    "learned": 0,
+    "example": "Her eloquent speech moved the audience to tears.",
+    "meaning": "Fluent or persuasive in speaking or writing.\n()"
+  },
+  {
+    "index": 25,
+    "text": "Enervate",
+    "learned": 0,
+    "example": "The long hours of work began to enervate him, leaving him exhausted.",
+    "meaning": "To weaken or drain of energy; to cause to feel tired or sluggish.\n()"
+  },
+  {
+    "index": 26,
+    "text": "Ephemeral",
+    "learned": 0,
+    "example": "The beauty of cherry blossoms is ephemeral, lasting only a few days.",
+    "meaning": "Lasting for a very short time; transient or fleeting.\n()"
+  },
+  {
+    "index": 27,
+    "text": "Esoteric",
+    "learned": 0,
+    "example": "His esoteric knowledge of ancient languages impressed his colleagues.",
+    "meaning": "Intended for or understood by only a select group; obscure or mysterious.\n()"
+  },
+  {
+    "index": 28,
+    "text": "Exacerbate",
+    "learned": 0,
+    "example": "His insensitive comments only served to exacerbate the tension in the room.",
+    "meaning": "To make a problem, situation, or feeling worse; to aggravate or intensify.\n()"
+  },
+  {
+    "index": 29,
+    "text": "Exonerate",
+    "learned": 0,
+    "example": "The evidence presented in court helped exonerate the defendant.",
+    "meaning": "To clear someone of blame or wrongdoing; to absolve from guilt or responsibility.\n()"
+  },
+  {
+    "index": 30,
+    "text": "Facetious",
+    "learned": 0,
+    "example": "His facetious comments during the meeting were not well-received.",
+    "meaning": "Treating serious issues with deliberately inappropriate humor; flippant or joking in a lighthearted manner.\n()"
+  },
+  {
+    "index": 31,
+    "text": "Fastidious",
+    "learned": 0,
+    "example": "She had a fastidious taste in art and spent hours analyzing each painting.",
+    "meaning": "Excessively particular, critical, or demanding; very attentive to detail.\n()"
+  },
+  {
+    "index": 32,
+    "text": "Furtive",
+    "learned": 0,
+    "example": "He cast a furtive glance around the room, hoping no one had seen his actions.",
+    "meaning": "Secretive, attempting to avoid notice or attention, often because of guilt or fear of discovery.\n()"
+  },
+  {
+    "index": 33,
+    "text": "Garrulous",
+    "learned": 0,
+    "example": "Her garrulous nature made it difficult for anyone else to get a word in.",
+    "meaning": "Excessively talkative, especially on trivial matters.\n()"
+  },
+  {
+    "index": 34,
+    "text": "Hapless",
+    "learned": 0,
+    "example": "The hapless traveler faced a series of mishaps during his journey.",
+    "meaning": "Unfortunate, unlucky, or having bad luck.\n()"
+  },
+  {
+    "index": 35,
+    "text": "Idiosyncrasy",
+    "learned": 0,
+    "example": "",
+    "meaning": "A unique, distinctive, or peculiar feature or characteristic; a quirk.\n()"
+  },
+  {
+    "index": 36,
+    "text": "Ineffable",
+    "learned": 0,
+    "example": "",
+    "meaning": "Too great or extreme to be expressed or described in words; indescribable.\n()"
+  },
+  {
+    "index": 37,
+    "text": "Ingratiate",
+    "learned": 0,
+    "example": "",
+    "meaning": "To gain favor or approval by deliberate effort; to seek to please or win over.\n()"
+  },
+  {
+    "index": 38,
+    "text": "Insipid",
+    "learned": 0,
+    "example": "",
+    "meaning": "Lacking flavor, interest, or excitement; dull or uninteresting.\n()"
+  },
+  {
+    "index": 39,
+    "text": "Intransigent",
+    "learned": 0,
+    "example": "",
+    "meaning": "Unwilling or refusing to change one's views or to agree about something.\n()"
+  },
+  {
+    "index": 40,
+    "text": "Languid",
+    "learned": 0,
+    "example": "",
+    "meaning": "Lacking in energy, spirit, or liveliness; slow and relaxed.\n()"
+  },
+  {
+    "index": 41,
+    "text": "Mellifluous",
+    "learned": 0,
+    "example": "",
+    "meaning": "Having a smooth, sweet, and pleasant sound, especially of a voice or music.\n()"
+  },
+  {
+    "index": 42,
+    "text": "Mendacious",
+    "learned": 0,
+    "example": "",
+    "meaning": "Not telling the truth; lying or dishonest.\n()"
+  },
+  {
+    "index": 43,
+    "text": "Misanthrope",
+    "learned": 0,
+    "example": "",
+    "meaning": "A person who dislikes or distrusts humanity and avoids human society.\n()"
+  },
+  {
+    "index": 44,
+    "text": "Nefarious",
+    "learned": 0,
+    "example": "",
+    "meaning": "Wicked, villainous, or heinously evil.\n()"
+  },
+  {
+    "index": 45,
+    "text": "Obfuscate",
+    "learned": 0,
+    "example": "",
+    "meaning": "To deliberately make something confusing or difficult to understand.\n()"
+  },
+  {
+    "index": 46,
+    "text": "Pernicious",
+    "learned": 0,
+    "example": "",
+    "meaning": "Having a harmful or destructive effect, especially in a gradual or subtle way.\n()"
+  },
+  {
+    "index": 47,
+    "text": "Placate",
+    "learned": 0,
+    "example": "",
+    "meaning": "To make someone less angry or hostile by giving in to their demands; to appease or pacify.\n()"
+  },
+  {
+    "index": 48,
+    "text": "Pragmatic",
+    "learned": 0,
+    "example": "",
+    "meaning": "Dealing with things in a sensible and practical way; concerned with practical results rather than theory.\n()"
+  },
+  {
+    "index": 49,
+    "text": "Prolific",
+    "learned": 0,
+    "example": "",
+    "meaning": "Producing many works, results, etc., or being highly productive.\n()"
+  },
+  {
+    "index": 50,
+    "text": "Rancor",
+    "learned": 0,
+    "example": "",
+    "meaning": "Bitter resentment or ill will; deep-seated hostility or hatred.\n()"
+  },
+  {
+    "index": 51,
+    "text": "Rebuke",
+    "learned": 0,
+    "example": "",
+    "meaning": "To express sharp disapproval or criticism of someone because of their behavior or actions.\n()"
+  },
+  {
+    "index": 52,
+    "text": "Reproach",
+    "learned": 0,
+    "example": "",
+    "meaning": "To express disappointment or disapproval to someone, especially for their actions or behavior.\n()"
+  },
+  {
+    "index": 53,
+    "text": "Respite",
+    "learned": 0,
+    "example": "",
+    "meaning": "A short period of rest or relief from something difficult or unpleasant.\n()"
+  },
+  {
+    "index": 54,
+    "text": "Reticent",
+    "learned": 0,
+    "example": "",
+    "meaning": "Not revealing one's thoughts or feelings readily; reserved or restrained.\n()"
+  },
+  {
+    "index": 55,
+    "text": "Sycophant",
+    "learned": 0,
+    "example": "",
+    "meaning": "A person who acts obsequiously toward someone important in order to gain advantage; a flatterer or yes-man.\n()"
+  },
+  {
+    "index": 56,
+    "text": "Tenuous",
+    "learned": 0,
+    "example": "",
+    "meaning": "Very weak or slight; insubstantial or flimsy.\n()"
+  },
+  {
+    "index": 57,
+    "text": "Trepidation",
+    "learned": 0,
+    "example": "",
+    "meaning": "A feeling of fear or anxiety about something that may happen; apprehension or nervousness.\n()"
+  },
+  {
+    "index": 58,
+    "text": "Ubiquitous",
+    "learned": 0,
+    "example": "",
+    "meaning": "Present, appearing, or found everywhere; widespread.\n()"
+  },
+  {
+    "index": 59,
+    "text": "Unassailable",
+    "learned": 0,
+    "example": "",
+    "meaning": "Unable to be attacked, questioned, or defeated; unquestionable or indisputable.\n()"
+  },
+  {
+    "index": 60,
+    "text": "Usurp",
+    "learned": 0,
+    "example": "",
+    "meaning": "To take a position of power or importance illegally or by force; to seize or appropriate without authority.\n()"
+  },
+  {
+    "index": 61,
+    "text": "Voracious",
+    "learned": 0,
+    "example": "",
+    "meaning": "Wanting or devouring great quantities of food; having a very eager approach to an activity.\n()"
+  },
+  {
+    "index": 62,
+    "text": "Wane",
+    "learned": 0,
+    "example": "",
+    "meaning": "To decrease gradually in size, strength, or intensity; to decline or diminish.\n()"
+  },
+  {
+    "index": 63,
+    "text": "Zealous",
+    "learned": 0,
+    "example": "",
+    "meaning": "Showing great enthusiasm or passion for a cause or objective; fervent or dedicated.\n()"
+  },
+  {
+    "index": 64,
+    "text": "Abrogate",
+    "learned": 0,
+    "example": "",
+    "meaning": "To repeal or do away with a law, right, or formal agreement.\n()"
+  },
+  {
+    "index": 65,
+    "text": "Acerbic",
+    "learned": 0,
+    "example": "",
+    "meaning": "Sharp and forthright; tasting sour or bitter.\n()"
+  },
+  {
+    "index": 66,
+    "text": "Aloof",
+    "learned": 0,
+    "example": "",
+    "meaning": "Not friendly or forthcoming; cool and distant.\n()"
+  },
+  {
+    "index": 67,
+    "text": "Amalgamate",
+    "learned": 0,
+    "example": "",
+    "meaning": "To combine or unite to form one structure or organization; to blend or merge.\n()"
+  },
+  {
+    "index": 68,
+    "text": "Antipathy",
+    "learned": 0,
+    "example": "",
+    "meaning": "A deep-seated feeling of dislike; aversion or hatred.\n()"
+  },
+  {
+    "index": 69,
+    "text": "Arbitrary",
+    "learned": 0,
+    "example": "",
+    "meaning": "Based on random choice or personal whim, rather than any reason or system.\n()"
+  },
+  {
+    "index": 70,
+    "text": "Austere",
+    "learned": 0,
+    "example": "",
+    "meaning": "Severe or strict in manner, attitude, or appearance; without luxury or comfort.\n()"
+  },
+  {
+    "index": 71,
+    "text": "Aversion",
+    "learned": 0,
+    "example": "",
+    "meaning": "A strong dislike or disinclination; a feeling of repugnance.\n()"
+  },
+  {
+    "index": 72,
+    "text": "Belligerent",
+    "learned": 0,
+    "example": "",
+    "meaning": "Hostile and aggressive; inclined to wage war.\n()"
+  },
+  {
+    "index": 73,
+    "text": "Benevolent",
+    "learned": 0,
+    "example": "",
+    "meaning": "Well-meaning and kindly; desiring to do good for others.\n()"
+  },
+  {
+    "index": 74,
+    "text": "Bolster",
+    "learned": 0,
+    "example": "",
+    "meaning": "To support or strengthen; to provide assistance or reinforcement.\n()"
+  },
+  {
+    "index": 75,
+    "text": "Cacophony",
+    "learned": 0,
+    "example": "",
+    "meaning": "A harsh, discordant mixture of sounds; a chaotic and noisy situation.\n()"
+  },
+  {
+    "index": 76,
+    "text": "Capitulate",
+    "learned": 0,
+    "example": "",
+    "meaning": "To surrender or give in to an opponent's demands; to yield or submit.\n()"
+  },
+  {
+    "index": 77,
+    "text": "Censure",
+    "learned": 0,
+    "example": "",
+    "meaning": "To express strong disapproval or criticism; to condemn or reprimand.\n()"
+  },
+  {
+    "index": 78,
+    "text": "Chicanery",
+    "learned": 0,
+    "example": "",
+    "meaning": "The use of trickery to achieve a political, financial, or legal purpose; deception or fraud.\n()"
+  },
+  {
+    "index": 79,
+    "text": "Clandestine",
+    "learned": 0,
+    "example": "",
+    "meaning": "Kept secret or done secretively, especially because illicit.\n()"
+  },
+  {
+    "index": 80,
+    "text": "Cognizant",
+    "learned": 0,
+    "example": "",
+    "meaning": "Having knowledge or awareness of something; being conscious or mindful.\n()"
+  },
+  {
+    "index": 81,
+    "text": "Conjecture",
+    "learned": 0,
+    "example": "",
+    "meaning": "An opinion or conclusion formed on the basis of incomplete information; a guess or speculation.\n()"
+  },
+  {
+    "index": 82,
+    "text": "Covet",
+    "learned": 0,
+    "example": "",
+    "meaning": "To desire or wish for something, especially something that belongs to someone else; to crave or envy.\n()"
+  },
+  {
+    "index": 83,
+    "text": "Curtail",
+    "learned": 0,
+    "example": "",
+    "meaning": "To reduce or restrict something in quantity or duration; to cut short or diminish.\n()"
+  },
+  {
+    "index": 84,
+    "text": "Debilitate",
+    "learned": 0,
+    "example": "",
+    "meaning": "To make someone weak or infirm; to weaken or enfeeble.\n()"
+  },
+  {
+    "index": 85,
+    "text": "Deleterious",
+    "learned": 0,
+    "example": "",
+    "meaning": "Causing harm or damage; detrimental or harmful.\n()"
+  },
+  {
+    "index": 86,
+    "text": "Delineate",
+    "learned": 0,
+    "example": "",
+    "meaning": "To describe or portray something precisely and clearly; to outline or define.\n()"
+  },
+  {
+    "index": 87,
+    "text": "Demagogue",
+    "learned": 0,
+    "example": "",
+    "meaning": "A political leader who seeks support by appealing to popular desires and prejudices rather than by using rational argument.\n()"
+  },
+  {
+    "index": 88,
+    "text": "Depravity",
+    "learned": 0,
+    "example": "",
+    "meaning": "Moral corruption; wickedness or immorality.\n()"
+  },
+  {
+    "index": 89,
+    "text": "Derivative",
+    "learned": 0,
+    "example": "",
+    "meaning": "Imitative of the work of another person, and typically disapproved of for that reason; unoriginal or copied.\n()"
+  },
+  {
+    "index": 90,
+    "text": "Desultory",
+    "learned": 0,
+    "example": "",
+    "meaning": "Lacking a clear plan or purpose; haphazard or random.\n()"
+  },
+  {
+    "index": 91,
+    "text": "Deterrent",
+    "learned": 0,
+    "example": "",
+    "meaning": "A thing that discourages or prevents someone from doing something; a hindrance or discouragement.\n()"
+  },
+  {
+    "index": 92,
+    "text": "Diatribe",
+    "learned": 0,
+    "example": "",
+    "meaning": "A forceful and bitter verbal attack or criticism; a rant or tirade.\n()"
+  },
+  {
+    "index": 93,
+    "text": "Dichotomy",
+    "learned": 0,
+    "example": "",
+    "meaning": "A division or contrast between two things that are or are represented as being opposed or entirely different.\n()"
+  },
+  {
+    "index": 94,
+    "text": "Dilapidated",
+    "learned": 0,
+    "example": "",
+    "meaning": "In a state of disrepair or ruin, especially as a result of neglect.\n()"
+  },
+  {
+    "index": 95,
+    "text": "Disparate",
+    "learned": 0,
+    "example": "",
+    "meaning": "Essentially different in kind; not allowing comparison.\n()"
+  },
+  {
+    "index": 96,
+    "text": "Disseminate",
+    "learned": 0,
+    "example": "",
+    "meaning": "To spread or disperse something, especially information, widely.\n()"
+  },
+  {
+    "index": 97,
+    "text": "Duplicity",
+    "learned": 0,
+    "example": "",
+    "meaning": "Deceitfulness; double-dealing or dishonesty.\n()"
+  },
+  {
+    "index": 98,
+    "text": "Eccentric",
+    "learned": 0,
+    "example": "",
+    "meaning": "Unconventional and slightly strange; quirky or peculiar.\n()"
+  },
+  {
+    "index": 99,
+    "text": "Efficacious",
+    "learned": 0,
+    "example": "",
+    "meaning": "Effective and producing the desired outcome; capable of achieving the intended result.\n()"
+  },
+  {
+    "index": 100,
+    "text": "Egregious",
+    "learned": 0,
+    "example": "",
+    "meaning": "Outstandingly bad, shocking, or flagrant; extremely or conspicuously bad.\n()"
+  },
+  {
+    "index": 101,
+    "text": "Eloquence",
+    "learned": 0,
+    "example": "",
+    "meaning": "Fluent or persuasive speaking or writing; expressiveness or articulateness.\n()"
+  },
+  {
+    "index": 102,
+    "text": "Emulate",
+    "learned": 0,
+    "example": "",
+    "meaning": "To match or surpass (a person or achievement), typically by imitation; to strive to equal or excel.\n()"
+  },
+  {
+    "index": 103,
+    "text": "Endemic",
+    "learned": 0,
+    "example": "",
+    "meaning": "Native to a particular place or group; restricted or prevalent in a particular area or environment.\n()"
+  },
+  {
+    "index": 104,
+    "text": "Enervate",
+    "learned": 0,
+    "example": "",
+    "meaning": "To weaken or drain of energy; to cause to feel tired or sluggish.\n()"
+  },
+  {
+    "index": 105,
+    "text": "Enigmatic",
+    "learned": 0,
+    "example": "",
+    "meaning": "Difficult to interpret or understand; mysterious or puzzling.\n()"
+  },
+  {
+    "index": 106,
+    "text": "Epitome",
+    "learned": 0,
+    "example": "",
+    "meaning": "A person or thing that is a perfect example of a particular quality or type; a representative or embodiment.\n()"
+  },
+  {
+    "index": 107,
+    "text": "Equivocate",
+    "learned": 0,
+    "example": "",
+    "meaning": "To use ambiguous language to conceal the truth or to avoid committing oneself to a particular view or course of action.\n()"
+  },
+  {
+    "index": 108,
+    "text": "Erudite",
+    "learned": 0,
+    "example": "",
+    "meaning": "Having or showing great knowledge or learning; scholarly or knowledgeable.\n()"
+  },
+  {
+    "index": 109,
+    "text": "Esoteric",
+    "learned": 0,
+    "example": "",
+    "meaning": "Intended for or understood by only a select group; obscure or mysterious.\n()"
+  },
+  {
+    "index": 110,
+    "text": "Eulogy",
+    "learned": 0,
+    "example": "",
+    "meaning": "A speech or piece of writing that praises someone or something highly, typically someone who has died; a tribute or accolade.\n()"
+  },
+  {
+    "index": 111,
+    "text": "Exacerbate",
+    "learned": 0,
+    "example": "",
+    "meaning": "To make a problem, situation, or feeling worse; to aggravate or intensify.\n()"
+  },
+  {
+    "index": 112,
+    "text": "Exemplary",
+    "learned": 0,
+    "example": "",
+    "meaning": "Serving as a desirable model; representing the best of its kind.\n()"
+  },
+  {
+    "index": 113,
+    "text": "Exonerate",
+    "learned": 0,
+    "example": "",
+    "meaning": "To clear someone of blame or wrongdoing; to absolve from guilt or responsibility.\n()"
+  },
+  {
+    "index": 114,
+    "text": "Exorbitant",
+    "learned": 0,
+    "example": "",
+    "meaning": "Unreasonably high or excessive, especially in price; extravagant or overpriced.\n()"
+  },
+  {
+    "index": 115,
+    "text": "Expedite",
+    "learned": 0,
+    "example": "",
+    "meaning": "To make an action or process happen sooner or be accomplished more quickly; to speed up or facilitate.\n()"
+  },
+  {
+    "index": 116,
+    "text": "Extraneous",
+    "learned": 0,
+    "example": "",
+    "meaning": "Irrelevant or unrelated to the subject being dealt with; unnecessary or superfluous.\n()"
+  },
+  {
+    "index": 117,
+    "text": "Facetious",
+    "learned": 0,
+    "example": "",
+    "meaning": "Treating serious issues with deliberately inappropriate humor; flippant or joking in a lighthearted manner.\n()"
+  },
+  {
+    "index": 118,
+    "text": "Fastidious",
+    "learned": 0,
+    "example": "",
+    "meaning": "Excessively particular, critical, or demanding; very attentive to detail.\n()"
+  },
+  {
+    "index": 119,
+    "text": "Feckless",
+    "learned": 0,
+    "example": "",
+    "meaning": "Lacking initiative or strength of character; irresponsible or ineffectual.\n()"
+  },
+  {
+    "index": 120,
+    "text": "Furtive",
+    "learned": 0,
+    "example": "",
+    "meaning": "Secretive, attempting to avoid notice or attention, often because of guilt or fear of discovery.\n()"
+  },
+  {
+    "index": 121,
+    "text": "Gregarious",
+    "learned": 0,
+    "example": "",
+    "meaning": "Fond of company; sociable or outgoing.\n()"
+  },
+  {
+    "index": 122,
+    "text": "Harbinger",
+    "learned": 0,
+    "example": "",
+    "meaning": "A person or thing that signals or foreshadows what is to come; an omen or precursor.\n()"
+  },
+  {
+    "index": 123,
+    "text": "Hedonist",
+    "learned": 0,
+    "example": "",
+    "meaning": "A person who pursues pleasure and self-indulgence as a way of life; a pleasure-seeker.\n()"
+  },
+  {
+    "index": 124,
+    "text": "Hegemony",
+    "learned": 0,
+    "example": "",
+    "meaning": "Leadership or dominance, especially by one country or social group over others; supremacy or control.\n()"
+  },
+  {
+    "index": 125,
+    "text": "Histrionic",
+    "learned": 0,
+    "example": "",
+    "meaning": "Excessively dramatic or emotional; theatrical or melodramatic.\n()"
+  },
+  {
+    "index": 126,
+    "text": "Immutable",
+    "learned": 0,
+    "example": "",
+    "meaning": "Unchanging over time or unable to be changed; constant or unalterable.\n()"
+  },
+  {
+    "index": 127,
+    "text": "Impetuous",
+    "learned": 0,
+    "example": "",
+    "meaning": "Acting or done quickly and without thought or care; impulsive or rash.\n()"
+  },
+  {
+    "index": 128,
+    "text": "Indict",
+    "learned": 0,
+    "example": "",
+    "meaning": "To formally accuse or charge with a serious crime; to charge or criticize.\n()"
+  },
+  {
+    "index": 129,
+    "text": "Ineffable",
+    "learned": 0,
+    "example": "",
+    "meaning": "Too great or extreme to be expressed or described in words; indescribable.\n()"
+  },
+  {
+    "index": 130,
+    "text": "Inherent",
+    "learned": 0,
+    "example": "",
+    "meaning": "Existing in something as a permanent, essential, or characteristic attribute; intrinsic or innate.\n()"
+  },
+  {
+    "index": 131,
+    "text": "Innuendo",
+    "learned": 0,
+    "example": "",
+    "meaning": "An allusive or oblique remark or hint, typically a suggestive or disparaging one; insinuation or implication.\n()"
+  },
+  {
+    "index": 132,
+    "text": "Insipid",
+    "learned": 0,
+    "example": "",
+    "meaning": "Lacking flavor, interest, or excitement; dull or uninteresting.\n()"
+  },
+  {
+    "index": 133,
+    "text": "Intransigent",
+    "learned": 0,
+    "example": "",
+    "meaning": "Unwilling or refusing to change one's views or to agree about something.\n()"
+  },
+  {
+    "index": 134,
+    "text": "Lament",
+    "learned": 0,
+    "example": "",
+    "meaning": "A passionate expression of grief or sorrow; a mournful cry or song.\n()"
+  },
+  {
+    "index": 135,
+    "text": "Malleable",
+    "learned": 0,
+    "example": "",
+    "meaning": "Capable of being shaped or bent; easily influenced or adapted.\n()"
+  },
+  {
+    "index": 136,
+    "text": "Maverick",
+    "learned": 0,
+    "example": "",
+    "meaning": "An unorthodox or independent-minded person; a nonconformist or individualist.\n()"
+  },
+  {
+    "index": 137,
+    "text": "Nefarious",
+    "learned": 0,
+    "example": "",
+    "meaning": "Wicked, villainous, or heinously evil.\n()"
+  },
+  {
+    "index": 138,
+    "text": "Noxious",
+    "learned": 0,
+    "example": "",
+    "meaning": "Harmful, poisonous, or very unpleasant.\n()"
+  },
+  {
+    "index": 139,
+    "text": "Obfuscate",
+    "learned": 0,
+    "example": "",
+    "meaning": "To deliberately make something confusing or difficult to understand.\n()"
+  },
+  {
+    "index": 140,
+    "text": "Pernicious",
+    "learned": 0,
+    "example": "",
+    "meaning": "Having a harmful or destructive effect, especially in a gradual or subtle way.\n()"
+  },
+  {
+    "index": 141,
+    "text": "Placate",
+    "learned": 0,
+    "example": "",
+    "meaning": "To make someone less angry or hostile by giving in to their demands; to appease or pacify.\n()"
+  },
+  {
+    "index": 142,
+    "text": "Platitude",
+    "learned": 0,
+    "example": "",
+    "meaning": "A remark or statement, especially one with a moral content, that has been used too often to be interesting or thoughtful; a cliche.\n()"
+  },
+  {
+    "index": 143,
+    "text": "Prolific",
+    "learned": 0,
+    "example": "",
+    "meaning": "Producing many works, results, etc., or being highly productive.\n()"
+  },
+  {
+    "index": 144,
+    "text": "Pugnacious",
+    "learned": 0,
+    "example": "",
+    "meaning": "Eager or quick to argue, quarrel, or fight; combative or confrontational.\n()"
+  },
+  {
+    "index": 145,
+    "text": "Rebuke",
+    "learned": 0,
+    "example": "",
+    "meaning": "To express sharp disapproval or criticism of someone because of their behavior or actions.\n()"
+  },
+  {
+    "index": 146,
+    "text": "Reproach",
+    "learned": 0,
+    "example": "",
+    "meaning": "To express disappointment or disapproval to someone, especially for their actions or behavior.\n()"
+  },
+  {
+    "index": 147,
+    "text": "Sanguine",
+    "learned": 0,
+    "example": "",
+    "meaning": "Optimistic or positive, especially in an apparently bad or difficult situation; hopeful or confident.\n()"
+  },
+  {
+    "index": 148,
+    "text": "Soporific",
+    "learned": 0,
+    "example": "",
+    "meaning": "Tending to induce drowsiness or sleep; sleep-inducing or lethargic.\n()"
+  },
+  {
+    "index": 149,
+    "text": "Sycophant",
+    "learned": 0,
+    "example": "",
+    "meaning": "A person who acts obsequiously toward someone important in order to gain advantage; a flatterer or yes-man.\n()"
+  },
+  {
+    "index": 150,
+    "text": "Tangible",
+    "learned": 0,
+    "example": "",
+    "meaning": "Perceptible by touch; capable of being touched or felt; real or actual.\n()"
+  },
+  {
+    "index": 151,
+    "text": "Tenuous",
+    "learned": 0,
+    "example": "",
+    "meaning": "Very weak or slight; insubstantial or flimsy.\n()"
+  },
+  {
+    "index": 152,
+    "text": "Trepidation",
+    "learned": 0,
+    "example": "",
+    "meaning": "A feeling of fear or anxiety about something that may happen; apprehension or nervousness.\n()"
+  },
+  {
+    "index": 153,
+    "text": "Ubiquitous",
+    "learned": 0,
+    "example": "",
+    "meaning": "Present, appearing, or found everywhere; widespread.\n()"
+  },
+  {
+    "index": 154,
+    "text": "Venerate",
+    "learned": 0,
+    "example": "",
+    "meaning": "Regard with great respect; revere or worship.\n()"
+  },
+  {
+    "index": 155,
+    "text": "Voracious",
+    "learned": 0,
+    "example": "",
+    "meaning": "Wanting or devouring great quantities of food; having a very eager approach to an activity.\n()"
+  },
+  {
+    "index": 156,
+    "text": "Whimsical",
+    "learned": 0,
+    "example": "",
+    "meaning": "Playfully quaint or fanciful, especially in an appealing and amusing way; quirky or whimsical.\n()"
+  },
+  {
+    "index": 157,
+    "text": "Zealous",
+    "learned": 0,
+    "example": "",
+    "meaning": "Showing great enthusiasm or passion for a cause or objective; fervent or dedicated.\n()"
+  }
+]
