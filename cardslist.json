@@ -6,15 +6,21 @@
     "total": 263
   },
   {
+    "id": "sat32.json",
+    "name": "32 SAT Words",
+    "progress": 0,
+    "total": 32
+  },
+  {
+    "id": "gre100.json",
+    "name": "100 GRE Vocabulary",
+    "progress": 0,
+    "total": 100
+  },
+  {
     "id": "nietzsche.json",
     "name": "Nietzsche quotes",
     "progress": 0,
     "total": 66
-  },
-  {
-    "id": "sat32.json",
-    "name": "32 SAT Words",
-    "progress": 0,
-    "total": 10000
   }
 ]
